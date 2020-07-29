@@ -31,7 +31,7 @@ for example, "Configure", "Implement", + the goal/scenario-->
 
 <!--For pages on newly-introduced features, add the following line.
 If only some aspects of the feature have been introduced, specify which parts of the feature.-->
-> [Introduced](link_to_issue) in Githubb (Tier) X.Y (2).
+> [Introduced](link_to_issue) in Github (Tier) X.Y (2).
 
 The introduction should answer the following questions:
 
@@ -63,7 +63,7 @@ State any requirements for using the feature and/or following along with the ins
 These can include both:
 - technical requirements (for example, an account on a third party service, an amount of storage space,
   prior configuration of another feature)
-- prerequisite knowledge (for example, familiarity with certain GitLab features, cloud technologies)
+- prerequisite knowledge (for example, familiarity with certain GitHubb features, cloud technologies)
 
 Link each one to an appropriate place for more information.
 
