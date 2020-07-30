@@ -63,7 +63,7 @@ State any requirements for using the feature and/or following along with the ins
 These can include both:
 - technical requirements (for example, an account on a third party service, an amount of storage space,
   prior configuration of another feature)
-- prerequisite knowledge (for example, familiarity with certain GitHubb features, cloud technologies)
+- prerequisite knowledge (for example, familiarity with certain GitHub features, cloud technologies)
 
 Link each one to an appropriate place for more information.
 
