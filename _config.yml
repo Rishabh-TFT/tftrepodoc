@@ -1,7 +1,5 @@
 theme: jekyll-theme-cayman
 title: Welcome to TFT Repository Documents
 description: "Short document description." # Up to ~200 chars long. They will be displayed
-h1: In Google Search snippets. It may help to write the page intro first, and then reuse it here.
-h2: To determine the technical writer assigned to the Stage/Group associated with this page, see [GitHub help](https://guides.github.com/features/wikis/)
 stage: "Add the stage name here, and remove the quotation marks"
 group: "Add the group name here, and remove the quotation marks"
