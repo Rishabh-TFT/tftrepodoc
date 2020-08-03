@@ -1,5 +1,4 @@
 theme: jekyll-theme-cayman
-title: Welcome to TFT Repository Documents
-description: "Short document description." # Up to ~200 chars long. They will be displayed
-stage: "Add the stage name here, and remove the quotation marks"
-group: "Add the group name here, and remove the quotation marks"
+title: TFT RepoDocument
+description: "Short document description."
+
