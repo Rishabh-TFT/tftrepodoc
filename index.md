@@ -1,4 +1,4 @@
-#Welcome to Repository Documents
+# Welcome to Repository Documents
 
 You can use the editor on GitHub to maintain and preview the content for your website in Markdown files. In Google Search snippets. It may help to write the page intro first, and then reuse it here. To determine the technical writer assigned to the Stage/Group associated with this page, see GitHub help
 Sample Document
@@ -7,9 +7,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 Syntax highlighted code block
 
-# Repo Description
+## Repo Description
 ## Repo resuability
-### Repo functionality
+## Repo functionality
 
 - Bulleted
 - List
@@ -33,7 +33,7 @@ The introduction should answer the following questions:
     What can the audience do with this? (Be sure to consider all applicable audiences, like GitHub admin and developer-user.)
     What are the benefits to using this over any alternatives?
 
-##Use cases
+## Use cases
 
 Describe some use cases, typically in bulleted form. Include real-life examples for each.
 
