@@ -38,7 +38,7 @@ Describe some use cases, typically in bulleted form. Include real-life examples 
 
 If the page itself is dedicated to a use case, this section can usually include more specific scenarios for use (for example, variations on the main use case), but if that's not applicable, the section can be omitted.
 
-Please refer this link [USE CASES] (usecases.md) to understand about use cases.
+Please refer this link [USE CASES](usecases.md) to understand about use cases.
 
 ## Requirements
 
