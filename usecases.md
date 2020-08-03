@@ -79,7 +79,7 @@ Here I will explain the case for ‘Login’ to a ‘School Management System’
 Actors/Users	   |        1      | Enter username, Enter Password  
 ----------------   |        2      | Validate Username and Password	
 ----------------   |        3	   | Allow access to System
-Extensions	   |        1a	   | Invalid Username, System shows an error message
+Extensions	       |        1a	   | Invalid Username, System shows an error message
 ----------------   |        2b     | Invalid Password
 ----------------   |        3c	   | Invalid Password for 4 times, Application closed
 
@@ -127,7 +127,18 @@ Use Case Diagram is a pictorial representation of a user(s) Actions in a system.
 #### Fig No: UC 01
 
 ![image](https://cdn.softwaretestinghelp.com/wp-content/qa/uploads/2018/02/Use-Case.jpg)
-School Login System
+
+
+As shown in the Fig No: UC 01 it represents a diagram where Rectangle represents a ‘System’, oval represent a ‘Use Case’, Arrow represents a ‘Relationship’ and the Man represents a ‘User/Actor’. It Shows a system/application, then it shows the organization/people who interact with it and shows the basic flow of ‘What the system does?’
+
+#### Fig No: UC 02
+
+![image](https://cdn.softwaretestinghelp.com/wp-content/qa/uploads/2018/02/Use-case-for-Login.jpg)
+
+#### Fig No: UC 03 – Use case diagram for login
+
+![image](https://cdn.softwaretestinghelp.com/wp-content/qa/uploads/2018/02/School-Login-System.jpg)
+
 
 This is the Use case diagram of ‘Login’ case. Here, we have more than one actor, they are all placed outside the system. Students, teachers, and parents are considered as primary actors. That is why they all are placed on the left side of the rectangle.
 
