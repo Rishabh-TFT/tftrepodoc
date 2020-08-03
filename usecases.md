@@ -92,7 +92,7 @@ Extensions	   |        1a	   | Invalid Username, System shows an error message
 - Write the process steps in the correct order.
 - Specify quality requirement for the process.
 
-##### How to Write a Use Case?
+### How to Write a Use Case?
 
 The points summarized below will help you to write these:
 
@@ -126,7 +126,7 @@ Use Case Diagram is a pictorial representation of a user(s) Actions in a system.
 
 #### Fig No: UC 01
 
-[UC1](C:\Users\risha\Downloads\uc1.jpg)
+![UC1](C:\Users\risha\Downloads\uc1.jpg)
 School Login System
 
 This is the Use case diagram of ‘Login’ case. Here, we have more than one actor, they are all placed outside the system. Students, teachers, and parents are considered as primary actors. That is why they all are placed on the left side of the rectangle.
