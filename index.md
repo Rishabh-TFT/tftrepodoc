@@ -46,7 +46,7 @@ Examples of use cases on feature pages:
     EE-only: Geo
     EE-only: Jenkins integration
 
-##Requirements
+## Requirements
 
 State any requirements for using the feature and/or following along with the instructions.
 
