@@ -1,4 +1,4 @@
-# Welcome to Repository Documents
+# Repository Documents
 
 You can use the editor on GitHub to maintain and preview the content for your website in Markdown files. In Google Search snippets. It may help to write the page intro first, and then reuse it here. To determine the technical writer assigned to the Stage/Group associated with this page, see GitHub help
 Sample Document
