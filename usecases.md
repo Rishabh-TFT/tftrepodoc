@@ -156,3 +156,6 @@ These are the actions that are done by the user in a system.
   - **A System** is ‘whatever you are developing’. It can be a website, an app or any other software component. It is generally represented by a rectangle. It Contains Use Cases. Users are placed outside the ‘rectangle’.
   - **Use Cases** are generally represented by Oval shapes specifying the Actions inside it.
   - **Actors/Users** are the people who use the system. But sometimes it can be other systems, person or any other organization.
+  
+  
+  [**Back to Main Page**](index.md)
